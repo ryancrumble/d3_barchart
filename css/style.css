@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway|Montserrat");
+
+* {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #d8dee9;
+}
+
+header {
+  min-height: 16vh;
+  padding: 20px 0;
+  background-color: #434c5e;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+}
+
+.main-content {
+  height: 76vh;
+  padding-top: 60px;
+  font-family: "Roboto", sans-serif;
+}
+
+.graph-card {
+  width: 920px;
+  margin: auto;
+}
+
+footer {
+  height: 8vh;
+  background-color: #3b4252;
+  padding: 20px 0;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+}
+
+.card {
+  box-shadow: 1px 1px 6px #434c5e;
+}
+
+#title {
+  margin: 20px 0;
+}
+
+#chart-area {
+  background-color: #fff;
+}
